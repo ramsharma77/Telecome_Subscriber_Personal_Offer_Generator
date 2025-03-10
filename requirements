@@ -1,0 +1,6 @@
+# Requirements 
+
+streamlit
+langchain-openai
+pandas
+openai
